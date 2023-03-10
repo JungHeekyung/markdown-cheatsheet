@@ -1,4 +1,4 @@
-Markdown Cheatsheet - Jung_
+Markdown Cheatsheet - _Jung_
 ===================
 
 - - - - 
